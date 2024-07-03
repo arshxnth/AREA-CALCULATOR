@@ -1,4 +1,4 @@
-# Area Calculator
+# AREA CALCULATOR 
 
 This Python script is an interactive console application designed to calculate the area of different geometric shapes: a square, a rectangle, and a circle. Users can select the shape for which they want to calculate the area, input the necessary dimensions, and receive the computed area.
 
